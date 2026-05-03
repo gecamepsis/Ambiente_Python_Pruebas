@@ -342,5 +342,13 @@
         "plazo": 18,
         "estado": "pendiente"
     }
+    ,  {
+        "id": 3,
+        "nombre": "María González",
+        "monto": 15000,
+        "interes": 4.5,
+        "plazo": 18,
+        "estado": "pendiente"
+    }
 
 ]
